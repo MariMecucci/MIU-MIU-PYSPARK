@@ -2,10 +2,6 @@
 
 # MIU MIU / PYSPARK
 
-<img src="https://i.pinimg.com/1200x/bc/95/d7/bc95d7b3938539d63a8974a699fc8583.jpg"
-     width="750"
-     alt="Miu Miu editorial reference">
-
 <br>
 
 ## THE OBSESSION
@@ -18,7 +14,7 @@ as what I was querying.
 
 <br>
 
-A Miu Miu-inspired fashion data pipeline,  
+A fictional Miu Miu-inspired fashion data pipeline,  
 built around product analysis, pricing exploration  
 and a very real excuse to investigate a brand I would absolutely wear to work.
 
