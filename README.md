@@ -13,9 +13,7 @@ I would probably spend as much time thinking about what I was wearing
 as what I was querying. **That would be the dream, right?**
 <br>
 
-A fictional Miu Miu-inspired fashion data pipeline,  
-built around product analysis, pricing exploration  
-and a very real excuse to investigate a brand I would absolutely wear to work.
+A **fictional** Miu Miu-inspired fashion data pipeline.
 
 <br>
 
